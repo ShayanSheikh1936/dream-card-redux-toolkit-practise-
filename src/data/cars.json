@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Aventador",
+    "model": "LP 780-4 Ultimae",
+    "brand": "Lamborghini",
+    "type": "Coupe",
+    "price": 518000,
+    "year": 2022,
+    "image": "data:image/jpeg;base64,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",
+    "description": "The Lamborghini Aventador combines wild V12 power with futuristic design, offering breathtaking performance and luxury."
+  },
+  {
+    "id": 2,
+    "name": "Model S",
+    "model": "Plaid",
+    "brand": "Tesla",
+    "type": "Sedan",
+    "price": 119990,
+    "year": 2023,
+    "image": "https://i.ytimg.com/vi/lC7WeIOnRSw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA_JX5bwxwO3Tn5c6xu6yJjIXejWA",
+    "description": "Tesla's Model S Plaid, with tri-motor all-wheel drive, redefines speed, technology, and eco-friendly luxury."
+  },
+  {
+    "id": 3,
+    "name": "Mustang",
+    "model": "Shelby GT500",
+    "brand": "Ford",
+    "type": "Coupe",
+    "price": 77000,
+    "year": 2022,
+    "image": "https://www.popsci.com/wp-content/uploads/2023/02/13/Mustang-Dark-Horse-Carbon-Fiber-Wheels_01.jpg?quality=85&w=2000",
+    "description": "The Ford Mustang Shelby GT500 offers classic American muscle with supercharged V8 power and bold design."
+  },
+  {
+    "id": 4,
+    "name": "911 Turbo S",
+    "model": "992",
+    "brand": "Porsche",
+    "type": "Coupe",
+    "price": 204000,
+    "year": 2023,
+    "image": "https://images-porsche.imgix.net/-/media/F7C7808B71544A0F86D6E6865EAEC622_9271FD70E524489FBE9574966452FD9A_CZ26W10OX0001-911-turbo-s-side-open-graph",
+    "description": "The Porsche 911 Turbo S offers thrilling speed, luxury, and the most iconic sports car silhouette."
+  },
+  {
+    "id": 5,
+    "name": "Camry",
+    "model": "XSE Hybrid",
+    "brand": "Toyota",
+    "type": "Sedan",
+    "price": 32000,
+    "year": 2022,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIoO_rDrx0tL67jRjoRjVOZaadCMOpTKT5EQ&s",
+    "description": "Toyota Camry XSE Hybrid blends economy, reliability, and comfort, featuring a modern, eco-friendly drive."
+  },
+  {
+    "id": 6,
+    "name": "Civic",
+    "model": "Sport Touring",
+    "brand": "Honda",
+    "type": "Hatchback",
+    "price": 29000,
+    "year": 2023,
+    "image": "https://media.ed.edmunds-media.com/honda/civic/2026/oem/2026_honda_civic_sedan_si_fq_oem_1_1280.jpg",
+    "description": "Honda Civic Sport Touring is known for reliability, fuel efficiency, and a sporty hatch design for the modern driver."
+  },
+  {
+    "id": 7,
+    "name": "X5",
+    "model": "xDrive40i",
+    "brand": "BMW",
+    "type": "SUV",
+    "price": 64900,
+    "year": 2022,
+    "image": "https://www.bmw-egypt.com/content/dam/bmw/common/all-models/x-series/series-overview/bmw-x-series-overview-page-ms-x3-03.jpg",
+    "description": "The BMW X5 xDrive40i is a luxury midsize SUV with impressive tech, comfort, and driving dynamics."
+  },
+  {
+    "id": 8,
+    "name": "A4",
+    "model": "Premium Plus",
+    "brand": "Audi",
+    "type": "Sedan",
+    "price": 43000,
+    "year": 2023,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyArTb3OtwrK_jqz-AdjurO14PYelGzDPOiA&s",
+    "description": "Audi A4 Premium Plus delivers timeless style, quattro all-wheel drive, and refined driving experience."
+  },
+  {
+    "id": 9,
+    "name": "CX-5",
+    "model": "Signature",
+    "brand": "Mazda",
+    "type": "SUV",
+    "price": 39000,
+    "year": 2023,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyArTb3OtwrK_jqz-AdjurO14PYelGzDPOiA&s",
+    "description": "Mazda CX-5 Signature combines sporty handling, upscale interior, and great value in a compact SUV." 
+  },
+  {
+    "id": 10,
+    "name": "Corvette",
+    "model": "Stingray",
+    "brand": "Chevrolet",
+    "type": "Coupe",
+    "price": 67800,
+    "year": 2023,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-stingray-convertible-3lt-z51-307-1665496970.jpg?crop=0.635xw:0.535xh;0.0897xw,0.417xh&resize=2048:*",
+    "description": "Chevrolet Corvette Stingray is an American icon, now mid-engined for incredible performance and world-class excitement."
+  }
+]
